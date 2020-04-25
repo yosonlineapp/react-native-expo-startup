@@ -5,3 +5,8 @@
 * Redux
 * Typescript
 * NativeBase
+
+## Setup
+
+- yarn install
+- yarn start
